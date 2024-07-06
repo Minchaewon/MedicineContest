@@ -1,1 +1,1 @@
-# MedicineContest
+# MedicineContest 💊
